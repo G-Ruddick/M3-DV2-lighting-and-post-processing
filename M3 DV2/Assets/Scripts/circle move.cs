@@ -9,7 +9,7 @@ public class circlemove : MonoBehaviour
 
     void Start() {
         speed = 0.8f;
-        radius = 0.01f;
+        radius = 0.002f;
         angle = 0f;
     }
 
